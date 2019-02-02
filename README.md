@@ -1,4 +1,4 @@
-# PMOBST
+# Vue Wrike App
 
 # Wrike API Token
 To run this locally, you need to create a permanent token in Wrike's App Dashboard, then replace the VUE_APP_TOKEN value in the .env.[mode] file.
