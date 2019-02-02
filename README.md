@@ -1,4 +1,5 @@
 # Vue Wrike App
+A Vue app that pulls data from a Wrike project and visualizes in different formats, hosted in a Firebase instance.
 
 ## Wrike API Token
 To run this locally, you need to create a permanent token in Wrike's App Dashboard, then replace the VUE_APP_TOKEN value in the .env.[mode] file.
